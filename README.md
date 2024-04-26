@@ -12,3 +12,4 @@
 - `/notebooks` contains Colab notebooks for training XGBoost models and extracting/validating/filtering info from hail observation notes using LLMs.
 - `/web_scrapped_images` contains info about collected social media screenshots.
 - `/web_scrapping_scripts` contains Python script to screenshot social media links from hail observation notes.
+- `/data_entry_scripts` contains Python script to automatically submit Severe Weather Report Form.
